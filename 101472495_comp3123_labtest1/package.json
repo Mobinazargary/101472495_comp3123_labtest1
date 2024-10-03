@@ -1,0 +1,15 @@
+{
+  "name": "101472495_comp3123_labtest1",
+  "version": "1.0.0",
+  "description": "This project contains the solutions to the COMP3123 Lab Test 1, which includes tasks involving JavaScript (ES6) and Node.js. The tasks are structured as per the test  requirements.",
+  "main": "question-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
